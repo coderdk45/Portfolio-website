@@ -449,15 +449,15 @@ a{
   }
 
   #project1{
-    background-image: url(./projects/Project1.png);
+    background-image: url(./projects/Parallax\ Advantator1.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(./projects/Project2.png);
+    background-image: url(./projects/Project\ 2.png);
   }
   #project3{
-    background-image: url(./projects/Project3.png);
+    background-image: url(./projects/Project\ 3.png);
   }
   #project4{
     margin-left:120px;
@@ -553,6 +553,7 @@ a{
   right:-25%;
   user-select:none;
   overflow-y:hidden;
+ 
 }
 
 .blob-style{
@@ -572,7 +573,7 @@ a{
 }
 
 .skills-logo{
-  width: 123px;
+  width: 112px;
   transition:all 0.5s;
 }
 
